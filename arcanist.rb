@@ -3,7 +3,7 @@ require 'formula'
 class Arcanist < Formula
   homepage 'http://phabricator.org/'
   url 'https://github.com/facebook/arcanist/tarball/master'
-  sha1 'eb21e42d641a309258a85cba81d28b556dea22ea'
+  sha1 'f099168aa82c1c1f5a6fd8f8b8f32e9237e7b309'
   version '0.1'
 
   depends_on 'libphutil'
